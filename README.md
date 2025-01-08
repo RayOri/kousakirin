@@ -1,2 +1,3 @@
 # kousakirin
 My personal repository
+a freshman....
